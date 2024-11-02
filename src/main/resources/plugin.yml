@@ -1,0 +1,6 @@
+name: MLGRush
+version: '1.0'
+main: dev.redcrew.mlgrush.MLGRush
+api-version: '1.21'
+authors: [ RedCrew ]
+website: https://redcrew.dev/
